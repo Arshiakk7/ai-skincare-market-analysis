@@ -1,4 +1,4 @@
- # AI Powered Skincare Market Analysis and Prediction Tool
+ # AI Powered Skincare Sales Market Analysis and Prediction Tool
 
 A full-stack market analytics dashboard with ML-based sales prediction and an AI chatbot analyst powered by Groq (Llama 3), built with FastAPI.
 
